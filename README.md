@@ -55,6 +55,7 @@ A curated list of awesome software for Windows.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
 * [Xshell](https://www.netsarang.com/download/software.html) - Xshell is a powerful SSH1, SSH2, SFTP, TELNET, RLOGIN and SERIAL terminal emulator for Windows platforms.
 * [Cmder](http://cmder.net/) - Portable console emulator for Windows.
+* [KKTerm](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 
 ## Note
 * [Evernote](https://evernote.com/) - Evernote helps you capture and prioritize ideas, projects, and to-do lists, so nothing falls through the cracks.
@@ -150,4 +151,3 @@ A curated list of awesome software for Windows.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [Cygwin](https://www.cygwin.com/) - Cygwin is a Unix-like environment and command-line interface for Microsoft Windows.
 * [BestTrace](https://www.ipip.net/download.html) - Route tracking tool by IPIP.net.
-
